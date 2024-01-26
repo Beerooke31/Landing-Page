@@ -1,0 +1,131 @@
+/* style css */
+* {
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+h1 {
+    font-size: 48px;
+    color: #F9FAF8;
+}
+
+.hero p {
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
+h2 {
+    font-size: 36px;
+    color: #1F2937;
+    text-align: center;
+}
+
+img {
+    height: 300px;
+    width: 500px;
+    border-radius: 10px;
+}
+
+
+header {
+    background-color: #1F2937;
+    display: flex;
+    gap: 12px;
+    padding: 20px;
+    align-items: center;
+    
+}
+
+
+.blurb,
+a {
+    text-decoration: none;
+    color: #E5E7EB;
+    font-size: 18px;
+}
+
+nav {
+    display: flex;
+    margin-left: auto;
+    align-items: center;
+    gap: 12px;
+    padding: 10px;
+}
+
+.home,
+.action {
+    color: #F9FAF8;
+    font-size: 24px;
+}
+
+.hero {
+    background-color: #1F2937;
+    padding: 80px;
+    display: flex;
+}
+
+.left-text {
+    padding: 20px;
+}
+
+
+.container img {
+    height: 100px;
+    width: 100px;
+    border-radius: 15px;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    gap: 52px;
+    text-align: center;
+    margin: 50px;
+
+}
+
+blockquote {
+    text-align: center;
+    background-color: #E5E7EB;
+    padding: 40px;
+    margin: 40px;
+    margin-left: 0;
+    margin-right: 0;
+    color: #1F2937;
+    font-size: 36px;
+}
+
+.support {
+    background-color:#3882f6;
+    margin: 100px;
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    padding: 50px;
+    border-radius: 10px;
+}
+
+.info {
+    max-width: 100px;
+}
+
+button {
+    background-color: #3882f6;
+    height: 30px;
+    width: 80px;
+    color: #E5E7EB;
+    border-color: #E5E7EB;
+    border-radius: 8px;
+    margin-left: auto;
+    
+}
+
+footer {
+    text-align: center;
+    background-color: #1F2937;
+    color: #E5E7EB;
+    font-size: 18px;
+    padding: 50px;
+    margin-top: 50px;
+}
+
+
