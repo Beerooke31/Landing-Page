@@ -1,4 +1,3 @@
-# Landing-Page
 Image credit
 Andre Estevez - Ace_visuals
 Hernan Segui - hernansegui
